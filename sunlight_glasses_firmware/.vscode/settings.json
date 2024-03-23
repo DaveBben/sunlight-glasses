@@ -1,0 +1,22 @@
+{
+    "nrf-connect.toolchain.path": "${nrf-connect.toolchain:2.5.2}",
+    "files.associations": {
+        "ias.h": "c",
+        "bluetooth.h": "c",
+        "bas.h": "c",
+        "hrs.h": "c",
+        "ess.h": "c",
+        "stdint.h": "c",
+        "uuid.h": "c",
+        "sensor.h": "c",
+        "device.h": "c",
+        "byteorder.h": "c",
+        "hci.h": "c",
+        "gatt.h": "c",
+        "veml7700.h": "c",
+        "conn.h": "c"
+    },
+    "nrf-connect.debugging.bindings": {
+        "${workspaceFolder}/build": "Launch build"
+    }
+}

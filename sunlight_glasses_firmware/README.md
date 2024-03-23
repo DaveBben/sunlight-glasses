@@ -1,0 +1,2 @@
+# Sunlight Glasses Embedded Software 
+This is the software for the NRF52810. It uses Zephyr RTOS. It reads the ambient light value and reports it to the connected device. It is setup to use the **Environmental Sensing** service with the **Perceived Lightness** characteristic.

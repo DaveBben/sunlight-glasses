@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #2 in huberman.init(current_lux:device_connected:average_lux:minutes_left:total_lux:percentage:):huberman.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
