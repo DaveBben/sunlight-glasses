@@ -17,4 +17,5 @@ The IOS app receives the ambient light value every second and calculates the ave
 
 ## Links:
 YouTube Video: https://www.youtube.com/watch?v=xIHv9QHtEUs
+
 Detailed Blog Post: https://www.bennettnotes.com/projects/sunlight_glasses_inspired_by_andrew_huberman/
